@@ -19,6 +19,11 @@
 ```
 
 ```markdown
+#### Name: Vikas Rana
+- GitHub: https://github.com/VikasRana10/
+```
+
+```markdown
 #### Name: DevVortex504
 - GitHub: https://github.com/DevVortex504
 ```
